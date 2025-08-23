@@ -5,6 +5,7 @@ var removeOuterParentheses = function(s) {
     let result=""
     let depth=0
 
+    let n=0
 
     
     for(let char of s){
