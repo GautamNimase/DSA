@@ -2,7 +2,7 @@
 
 /**
  * @param {string} num
- * @return {string}
+//  * @return {string}
  */
 var largestOddNumber = function(num) {
     let result=""
