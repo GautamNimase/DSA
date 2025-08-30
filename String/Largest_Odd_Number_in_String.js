@@ -14,6 +14,6 @@ var largestOddNumber = function(num) {
         
     }
     return ""
-    // console.log("hello ")
+    console.log("hello ")
     
 };
